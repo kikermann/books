@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<root>
+    <books>
+        <book>
+            <author>Paul</author>
+            <title>Paul's Adventures</title>
+            <pages>10</pages>
+            <code>1-00-01</code>
+        </book>
+        <book>
+            <author>Adetomi</author>
+            <title>Adetomi's Adventures</title>
+            <pages>20</pages>
+            <code>1-00-10</code>
+        </book>
+    </books>
+</root>
